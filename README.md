@@ -2,7 +2,7 @@
 
 A hybrid recommendation system built on a curated sample of the MovieLens 32M dataset for predicting user movie ratings.  
 The project combines **implicit-feedback pretraining**, **Neural Matrix Factorization (NeuMF)**, **content features**, and **multi-seed ensembling** to improve rating prediction under the competition’s **Weighted RMSE (WRMSE)** metric. 
-<br>Done during my Data Science & Machine Learning MSc.
+<br>Done during my Data Science & Machine Learning MSc at Reichman University.
 
 ## Result
 
@@ -82,3 +82,12 @@ The final submission is produced with a **multi-seed weighted ensemble**, which 
 ├── movies.csv
 ├── tags.csv
 └── ratings_submission.csv
+```
+
+---
+
+## Author
+
+**Noor Nashef**  
+MSc Data Science & Machine Learning student, Reichman University <br>
+BSc in Information Systems Engineering specialized in Machine Learning, Technion
