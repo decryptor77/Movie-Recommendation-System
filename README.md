@@ -7,7 +7,7 @@ The project combines **implicit-feedback pretraining**, **Neural Matrix Factoriz
 ## Result
 
 - **Final WRMSE:** `0.797`
-- **Competition outcome:** **Top-5 winning result**
+- **Competition outcome:** **competition winning result**
 - **Framework:** PyTorch + CUDA
 - **Hardware used during experimentation:** Colab GPU environments, including H100/A100
 
